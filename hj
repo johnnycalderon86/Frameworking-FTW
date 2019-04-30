@@ -1,0 +1,36 @@
+ <div class="col text-center ml-3 mt-3 col">
+                <div style="background-color:white;">
+                    <br>
+
+                    <img src="GitHub-Mark-64px.png" alt="githubmark">
+                    <br>
+                    <br>
+
+                    <h6> Your EMP Back OfficeTour </h6>
+                    <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vi trenger to linjer
+                        til saa vi kan naerme oss originalen. </p>
+                    <hr style="width:50%">
+                    <a href="https://www.vg.no/"><button type="button" class="btn btn-primary">Learn More</button></a>
+                    <br>
+                    <br>
+                </div>
+            </div>
+
+
+             <div class="col text-center ml-3 mt-3 col">
+                    <div style="background-color:white;">
+                            <br>
+
+                            <img src="GitHub-Mark-64px.png" alt="githubmark">
+                            <br>
+                            <br>
+        
+                            <h6> Your EMP Back OfficeTour </h6>
+                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vi trenger to linjer
+                                til saa vi kan naerme oss originalen. </p>
+                            <hr style="width:50%">
+                            <a href="https://www.vg.no/"><button type="button" class="btn btn-primary">Learn More</button></a>
+                            <br>
+                            <br>
+                    </div>
+                </div>
